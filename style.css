@@ -1,0 +1,11 @@
+  
+.header{
+    background-color:lightblue;
+    justify-content: space-evenly;
+}
+
+.games{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
